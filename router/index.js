@@ -37,7 +37,7 @@ let getCookie=function(key){
   },
   {
     path:'/colunm',
-    name:'Colunmss',
+    name:'Colunmsss',
     component:Colunm
   },
   {
